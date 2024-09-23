@@ -2,6 +2,8 @@ import React from 'react'
 
 export const Services = () => {
   return (
-    <div>Services</div>
+    <div>
+      <p className="font-semibold">what Services i wanna provide</p>
+    </div>
   )
 }
